@@ -1,2 +1,4 @@
 *.swp
 y.output
+.idea
+parser.go
